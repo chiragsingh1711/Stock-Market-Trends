@@ -18,4 +18,6 @@ Predicting market trends is an integral part of analysing the market and investi
 # Installation
 pip install -r requirements.txt
 
+**Chirag**
+
 
