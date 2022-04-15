@@ -1,4 +1,4 @@
-# Stock-Market-Trends
+# Stock-Market-Trend-Prediction
 Predicting Market Trends and providing tips along with graphical visualization. 
 
 # Problem Set
