@@ -15,6 +15,9 @@ Predicting market trends is an integral part of analysing the market and investi
 8. plotly
 9. tensordlow
 
+# Dataset
+Using /datsets/stock.csv and /datasets/(Containg Stock price and volume from 2012 to 2020)
+
 # Installation
 pip install -r requirements.txt
 
