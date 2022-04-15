@@ -10,9 +10,12 @@ Predicting market trends is an integral part of analysing the market and investi
 3. Pandas
 4. Seaborn
 5. Matplotlib
+6. sklearn
+7. scipy
+8. plotly
+9. tensordlow
 
 # Installation
 pip install -r requirements.txt
-
 
 
